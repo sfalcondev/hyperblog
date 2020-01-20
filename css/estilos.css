@@ -27,6 +27,7 @@ body {
    height: 20px;
    text-align: center;
 }
+
 #cabecera #tagline {
     padding: 0 0 6em;
     font-weight: normal;
@@ -45,16 +46,15 @@ body {
     font-size: 20px;
 }
 
+
 #post {
     background: white;
     padding: 1em;
 }
-
-
 
 #footer {
     background: palevioletred;
     padding: 10px;
     text-align: center;
     padding: 5px;
-    
+}
