@@ -1,9 +1,5 @@
 body {
-<<<<<<< HEAD
-    background:white;
-=======
-    background: gray;
->>>>>>> header
+    background:  white;
     text-align: center;
     color: black;
     font-size: 16px;
@@ -20,7 +16,6 @@ body {
     font-weight: bold;
    
 }
-<<<<<<< HEAD
 
 #cabecera #logo {
     width: 20px;
@@ -31,14 +26,7 @@ body {
    width: 20px;
    height: 20px;
    text-align: center;
-=======
-
-#cabecera #logo {
-    width: 20px;
-    vertical-align: middle;
->>>>>>> header
 }
-
 #cabecera #tagline {
     padding: 0 0 6em;
     font-weight: normal;
@@ -56,16 +44,13 @@ body {
 #container h1 {
     font-size: 20px;
 }
-<<<<<<< HEAD
 
 #post {
     background: white;
     padding: 1em;
 }
-#post {
-    background: white;
-    padding: 1em;
-}
+
+
 
 #footer {
     background: palevioletred;
@@ -73,9 +58,3 @@ body {
     text-align: center;
     padding: 5px;
     
-=======
-#post {
-    background: white;
-    padding: 1em;
-}
->>>>>>> header
